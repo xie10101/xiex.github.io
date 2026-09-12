@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 技术随笔
+title: Sean Xie Blog 
 subtitle: '记录技术点滴&学习&生活🔥'
 description: '分享前端开发技术'
-keywords: "[前端, JavaScript, TypeScript, React, Vue, Node.js]"
-author: XIEX
+keywords: "[前端, TypeScript, React, Node.js,Next.js,Nest.js]"
+author: Sean Xie
 language: zh-CN
-timezone: Asia/beijing
+timezone: Asia/Aden
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
